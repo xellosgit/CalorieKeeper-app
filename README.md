@@ -1,6 +1,6 @@
-# Meal Keeper 🍽️
+# Nutrition Keeper 🍽️
 
-**Meal Keeper** is a web application designed to help users monitor their daily food intake, track nutritional values, and manage their diet more effectively. The app allows users to log meals, track calories, and maintain a balanced diet effortlessly.
+**Nutrition Keeper** is a web application designed to help users monitor their daily food intake, track nutritional values, and manage their diet more effectively. The app allows users to log meals, track calories, and maintain a balanced diet effortlessly.
 
 ### Key Features
 - 📊 **Track Nutritional Information**: Log your meals and get insights into your calorie intake.
